@@ -1,0 +1,10 @@
+nkus@Ankush-PC MINGW64 /c/Projects/MyBlog (main)
+$ ls -la
+total 20
+drwxr-xr-x 1 ankus 197121 0 Aug  1 17:39  ./
+drwxr-xr-x 1 ankus 197121 0 Jul 29 13:41  ../
+drwxr-xr-x 1 ankus 197121 0 Aug  1 17:49  .git/
+drwxr-xr-x 1 ankus 197121 0 Jul 31 16:34  blog-api/
+drwxr-xr-x 1 ankus 197121 0 Aug  1 16:20  blogApp/
+drwxr-xr-x 1 ankus 197121 0 Aug  1 16:36  Blog-Mern/
+drwxr-xr-x 1 ankus 197121 0 Jul 30 15:42 'sample images'/
