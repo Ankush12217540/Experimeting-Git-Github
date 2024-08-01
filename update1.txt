@@ -1,0 +1,16 @@
+thsi thos th eup a form th efil eo fthe !
+!
+ swich bug-fixes
+git: 'swich' is not a git command. See 'git --help'.
+
+The most similar command is
+        switch
+
+ankus@Ankush-PC MINGW64 /c/Projects/MyBlog/LearnGit (main)
+$ git switch bug-fixes
+Switched to branch 'bug-fixes'
+
+ankus@Ankush-PC MINGW64 /c/Projects/MyBlog/LearnGit (bug-fixes)
+$ git branch
+* bug-fixes
+  main
