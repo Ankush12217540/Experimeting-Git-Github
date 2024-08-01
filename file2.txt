@@ -10,3 +10,4 @@ drwxr-xr-x 1 ankus 197121 0 Aug  1 16:36  Blog-Mern/
 changes made
 
 drwxr-xr-x 1 ankus 197121 0 Jul 30 15:42 'sample images'/
+git config --global core.editor "code --wait"
