@@ -1,6 +1,7 @@
 thsi thos th eup a form th efil eo fthe !
 !
  swich bug-fixes
+ file updated
 git: 'swich' is not a git command. See 'git --help'.
 
 The most similar command is
