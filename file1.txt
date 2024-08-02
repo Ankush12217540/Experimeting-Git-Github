@@ -6,7 +6,7 @@ git rm --cached fixes.txt
 git rm --cached fixes.txt
 git rm --cached fixes.txt
 git rm --cached fixes.txt
-git rm --cached fixes.txt
+git rm --cach
 git rm --cached fixes.txt
 git rm --cached fixes.txt
 git rm --cached fixes.txt
