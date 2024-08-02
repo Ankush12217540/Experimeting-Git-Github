@@ -10,5 +10,3 @@ git rm --cached fixes.txt
 git rm --cached fixes.txt
 git rm --cached fixes.txt
 git rm --cached fixes.txt
-git rm --cached fixes.txt
-git rm --cached fixes.txt
