@@ -10,3 +10,6 @@ git rm --cach
 git rm --cached fixes.txt
 git rm --cached fixes.txt
 git rm --cached fixes.txt
+------------------------------------------------------------------ X ----------------------------------------
+
+Adding second first change for the commmit
